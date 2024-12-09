@@ -1,8 +1,7 @@
-
-
 <h1 align="center">
-    <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=💫 +About +Me+ :-;+Hi, +My +Name +Is +Prasad +Patil;" /> -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&random=false&width=500&height=70&lines=%F0%9F%92%AB++About+Me+%3A-;Hi%2C+My+Name+Is+Prasad+Patil" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&random=false&width=500&height=70&lines=%F0%9F%92%AB++About+Me+%3A-;Hi%2C+My+Name+Is+Prasad+Patil" alt="Typing SVG" />
+    </a>
 </h1>
 
 <h3 align="center">Passionate Software Developer | Building Solutions with Code | C++, C#, Java, and More</h3>
@@ -11,40 +10,36 @@
 
 <img align="center" src="https://komarev.com/ghpvc/?username=Prasad-R-Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Prasad-R-Patil"  />
 
-
 <div align="center">
- 
- 🔭 I’m currently working on ==>
- <br/>
- 🌱 I’m currently learning ==> C#,Winform    
- <br/>
-💬 Ask me about Technology  or anything ==> [Here](prasadpatil24212@gmail.com)
-<br/>
-⚡ Fun fact ==> Movie && Games 
-<br/>
- </div>
- 
-<div align="center"> 
-  <a href="mailto:prasadpatil24212@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/prasad-patil-678032202/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-   <a href="https://instagram.com/prasad_.2128" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
-   </a>
+    🔭 I’m currently working on ==>
+    <br/>
+    🌱 I’m currently learning ==> C#, WinForms  
+    <br/>
+    💬 Ask me about Technology or anything ==> [Here](prasadpatil24212@gmail.com)
+    <br/>
+    ⚡ Fun fact ==> Movie & Games 
+    <br/>
 </div>
 
- <hr/>
- 
+<div align="center"> 
+    <a href="mailto:prasadpatil24212@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/prasad-patil-678032202/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://instagram.com/prasad_.2128" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
+    </a>
+</div>
+
+<hr/>
+
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-    <img src="https://skillicons.dev/icons?i=vscode,git" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql" /><br>
-     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,springboot" />
 </div>
 
 <br/>
@@ -54,7 +49,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/Pj2121jp/Pj2121jp/github-user-contribution.svg" />
-  
   <br/><br/><br/>
 </div>
 
