@@ -18,7 +18,7 @@
  <br/>
  🌱 I’m currently learning ==>   C#,Winform    
  <br/>
-💬 Ask me about Technology  or anything [prasadpatil24212@gmail.com](  prasadpatil24212@gmail.com    )**
+💬 Ask me about Technology  or anything [Here](prasadpatil24212@gmail.com)
 <br/>
 ⚡ Fun fact ** Grand Theft Auto V **
 <br/>
