@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&random=false&width=500&height=70&lines=%F0%9F%92%AB++About+Me+%3A-;Hi%2C+My+Name+Is+Prasad+Patil" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Passionate Software Developer | Building Solutions with Code | Java, C++, C#, and More</h3>
 
 <br/>
 
