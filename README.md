@@ -48,8 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  
-     <img alt="snake eating my contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasad-R-Patil&theme=react&border_radius=10&hide_border=true" />
+   <img alt="snake eating my contributions" src="https://github.com/Pj2121jp/Pj2121jp/github-user-contribution.svg" />
   <br/><br/><br/>
 </div>
 
