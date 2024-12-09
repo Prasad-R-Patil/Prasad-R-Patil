@@ -15,7 +15,7 @@
     <br/>
     🌱 I’m currently learning ==> C#, WinForms  
     <br/>
-    💬 Ask me about Technology or anything ==> [Here] (prasadpatil24212@gmail.com)
+    💬 Ask me about Technology  or anything ==> [Here](prasadpatil24212@gmail.com)
     <br/>
     ⚡ Fun fact ==> Movie & Games 
     <br/>
