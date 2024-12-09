@@ -20,7 +20,7 @@
  <br/>
 💬 Ask me about Technology  or anything [Here](prasadpatil24212@gmail.com)
 <br/>
-⚡ Fun fact ** Grand Theft Auto V **
+⚡ Fun fact Movie && Games 
 <br/>
  </div>
  
