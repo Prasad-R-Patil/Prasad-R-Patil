@@ -44,6 +44,7 @@
     <img src="https://skillicons.dev/icons?i=html,css" />
     <img src="https://skillicons.dev/icons?i=vscode,git" />
     <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql" /><br>
+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
 <br/>
