@@ -14,9 +14,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **          **
+ 🔭 I’m currently working on ==>
  <br/>
- 🌱 I’m currently learning **           **
+ 🌱 I’m currently learning ==>   C#,Winform    
  <br/>
 💬 Ask me about **  or anything [here](      )**
 <br/>
