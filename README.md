@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on ==>
  <br/>
- 🌱 I’m currently learning ==>   C#,Winform    
+ 🌱 I’m currently learning ==> C#,Winform    
  <br/>
 💬 Ask me about Technology  or anything ==> [Here](prasadpatil24212@gmail.com)
 <br/>
