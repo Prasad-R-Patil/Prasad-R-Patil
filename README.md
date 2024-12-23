@@ -13,7 +13,7 @@
 <div align="center">
     🔭 I’m currently working on ==>
     <br/>
-    🌱 I’m currently learning ==> C#, WinForms  
+    🌱 I’m currently learning ==> C#, WinForms ,WPF
     <br/>
     💬 Ask me about Technology  or anything ==> [Here](prasadpatil24212@gmail.com)
     <br/>
