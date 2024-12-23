@@ -28,7 +28,7 @@
     <a href="https://www.linkedin.com/in/prasad-patil-678032202/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-    <a href="https://instagram.com/prasad_.2128" target="_blank">
+    <a href="https://instagram.com/patil_.002" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
     </a>
 </div>
