@@ -35,7 +35,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️⚒️ Skills ⚒️⚒️</h2>
+<h2 align="center">⚒️⚒️ =>.....Skills.....<= ⚒️⚒️</h2>
 <br/>
 <hr/>
 <h2 align="center">⚒️ Language ⚒️</h2>
