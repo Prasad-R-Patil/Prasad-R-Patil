@@ -56,7 +56,7 @@
 
 </div>
 
-
+<hr/>
 <h2 align="center">⚒️ Frameworks ⚒️</h2>
 <br/>
 <div align="center">
@@ -65,6 +65,8 @@
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
     
 </div>
+
+<hr/>
 <h2 align="center">⚒️ DataBase ⚒️</h2>
 <br/>
 <div align="center">
@@ -75,6 +77,7 @@
     
 </div>
 
+<hr/>
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
