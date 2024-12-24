@@ -35,7 +35,9 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Skills ⚒️</h2>
+<h2 align="center">⚒️⚒️ Skills ⚒️⚒️</h2>
+<br/>
+<h2 align="center">⚒️ Language ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
