@@ -80,7 +80,7 @@
 </div>
 
 <hr/>
-<h2 align="center">⚒️ Tools ⚒️</h2>
+<h2 align="center">⚒️ Tools ( IDE ) ⚒️</h2>
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" alt="Git">
