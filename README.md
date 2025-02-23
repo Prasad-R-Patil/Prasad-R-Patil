@@ -96,14 +96,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-   <img alt="snake eating my contributions" src="https://github.com/Pj2121jp/Pj2121jp/github-user-contribution.svg" />
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
