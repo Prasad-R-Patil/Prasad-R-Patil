@@ -4,7 +4,7 @@
     </a>
 </h1>
 
-<h3 align="center">Passionate Software Developer | Building Solutions with Code | C++, C#, Java, and More</h3>
+<h3 align="center">Passionate Software Developer | Building Solutions with Code | C, C++, C#, Java, and More</h3>
 
 <br/>
 
