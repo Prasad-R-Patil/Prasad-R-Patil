@@ -75,7 +75,7 @@
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white)  
+<img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL">  
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     
 </div>
