@@ -11,9 +11,9 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=Prasad-R-Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Prasad-R-Patil"  />
 
 <div align="center">
-    🔭 I’m currently working on ==>
+    🔭 I’m currently Training in ==> CDAC Infoway
     <br/>
-    🌱 I’m currently learning ==> C#, WinForms ,WPF
+    🌱 I’m currently learning ==> PG-DAC
     <br/>
     ⚡ Fun fact ==> Movie & Games 
     <br/>
