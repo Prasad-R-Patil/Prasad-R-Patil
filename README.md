@@ -114,6 +114,16 @@
 <hr/>
 
 <br/>
+<h2 align="center">⚒️⚒️ =>... 🏆 GitHub Trophies 🏆 ...<= ⚒️⚒️</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prasad-R-Patil&theme=gruvbox" alt="Trophy" />
+</p>
+
+
+<hr/>
+
+<br/>
 
 
 
