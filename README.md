@@ -114,6 +114,21 @@
 <hr/>
 
 <br/>
+
+
+<h2 align="center">📊 GitHub Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasad-R-Patil&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+
+<hr/>
+
+<br/>
+
+
+
 <h2 align="center">⚒️⚒️ =>... 🏆 GitHub Trophies 🏆 ...<= ⚒️⚒️</h2>
 
 <p align="center">
@@ -121,9 +136,25 @@
 </p>
 
 
+
 <hr/>
 
 <br/>
+
+
+<h2 align="center">🐍 Watch My Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prasad-R-Patil/Prasad-R-Patil/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
+<hr/>
+
+<br/>
+
+
+
 
 
 
