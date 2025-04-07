@@ -142,16 +142,6 @@
 <br/>
 
 
-<h2 align="center">🐍 Watch My Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prasad-R-Patil/Prasad-R-Patil/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
-<hr/>
-
-<br/>
 
 
 
