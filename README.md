@@ -35,7 +35,8 @@
 
 <hr/>
 
-<h2 align="center">⚒️⚒️ =>.....Skills.....<= ⚒️⚒️</h2>
+<h2 align="center">🚀✨ =>.....Tech Stack & Tools I Use.....<= ✨🚀</h2>
+
 <br/>
 <hr/>
 <h2 align="center">⚒️ Language ⚒️</h2>
@@ -64,11 +65,37 @@
 <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="WPF">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> 
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 
     
 </div>
 
 <hr/>
+
+<h2 align="center">⚒️ Libraries ⚒️</h2>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+<img src="https://img.shields.io/badge/AJAX-FF6F00?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX">
+
+    
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Styling / UI ⚒️</h2>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    
+</div>
+    
+
+
+<hr/>
+
 <h2 align="center">⚒️ DataBase ⚒️</h2>
 <br/>
 <div align="center">
